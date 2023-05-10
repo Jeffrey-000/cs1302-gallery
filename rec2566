@@ -1,0 +1,90 @@
+cs1302-gallery:
+total 60
+-rwxr-xr-x. 1 myid    51 Nov 19 13:45 compile.sh
+-rwxr-xr-x. 1 myid   725 Nov 19 13:45 deps.sh
+-rw-r--r--. 1 myid  3134 Nov 19 13:45 pom.xml
+-rw-r--r--. 1 myid 44257 Nov 19 13:45 README.md
+-rw-r--r--. 1 myid     0 Nov 20 14:25 rec2566
+drwxr-xr-x. 2 myid    87 Nov 19 13:45 resources
+-rwxr-xr-x. 1 myid   101 Nov 19 13:45 run.sh
+drwxr-xr-x. 3 myid    26 Nov 19 13:45 src
+drwxr-xr-x. 5 myid    82 Nov 20 14:19 target
+
+cs1302-gallery/resources:
+total 1140
+-rw-r--r--. 1 myid   4730 Nov 19 13:45 default.png
+-rw-r--r--. 1 myid 232527 Nov 19 13:45 mockup_thumb.png
+-rw-r--r--. 1 myid 923532 Nov 19 13:45 screenshot.png
+
+cs1302-gallery/src:
+total 0
+drwxr-xr-x. 3 myid 26 Nov 19 13:45 main
+
+cs1302-gallery/src/main:
+total 0
+drwxr-xr-x. 3 myid 56 Nov 19 13:45 java
+
+cs1302-gallery/src/main/java:
+total 4
+drwxr-xr-x. 3 myid  29 Nov 19 13:45 cs1302
+-rw-r--r--. 1 myid 290 Nov 19 13:45 module-info.java
+
+cs1302-gallery/src/main/java/cs1302:
+total 0
+drwxr-xr-x. 2 myid 147 Nov 20 14:19 gallery
+
+cs1302-gallery/src/main/java/cs1302/gallery:
+total 28
+-rw-r--r--. 1 myid 11347 Nov 20 14:19 App.java
+-rw-r--r--. 1 myid  3619 Nov 20 13:30 GalleryApp.java
+-rw-r--r--. 1 myid   790 Nov 19 13:45 GalleryDriver.java
+-rw-r--r--. 1 myid   396 Nov 19 13:45 ItunesResponse.java
+-rw-r--r--. 1 myid   716 Nov 19 13:45 ItunesResult.java
+
+cs1302-gallery/target:
+total 0
+drwxr-xr-x. 3 myid 57 Nov 20 14:19 classes
+drwxr-xr-x. 3 myid 33 Nov 20 14:19 generated-sources
+drwxr-xr-x. 3 myid 43 Nov 20 14:19 maven-status
+
+cs1302-gallery/target/classes:
+total 4
+drwxr-xr-x. 3 myid  29 Nov 20 14:19 cs1302
+-rw-r--r--. 1 myid 301 Nov 20 14:19 module-info.class
+
+cs1302-gallery/target/classes/cs1302:
+total 0
+drwxr-xr-x. 2 myid 152 Nov 20 14:19 gallery
+
+cs1302-gallery/target/classes/cs1302/gallery:
+total 32
+-rw-r--r--. 1 myid 12672 Nov 20 14:19 App.class
+-rw-r--r--. 1 myid  3852 Nov 20 14:19 GalleryApp.class
+-rw-r--r--. 1 myid  1123 Nov 20 14:19 GalleryDriver.class
+-rw-r--r--. 1 myid   374 Nov 20 14:19 ItunesResponse.class
+-rw-r--r--. 1 myid   373 Nov 20 14:19 ItunesResult.class
+
+cs1302-gallery/target/generated-sources:
+total 0
+drwxr-xr-x. 2 myid 6 Nov 20 14:19 annotations
+
+cs1302-gallery/target/generated-sources/annotations:
+total 0
+
+cs1302-gallery/target/maven-status:
+total 0
+drwxr-xr-x. 3 myid 29 Nov 20 14:19 maven-compiler-plugin
+
+cs1302-gallery/target/maven-status/maven-compiler-plugin:
+total 0
+drwxr-xr-x. 3 myid 37 Nov 20 14:19 compile
+
+cs1302-gallery/target/maven-status/maven-compiler-plugin/compile:
+total 0
+drwxr-xr-x. 2 myid 64 Nov 20 14:19 default-compile
+
+cs1302-gallery/target/maven-status/maven-compiler-plugin/compile/default-compile:
+total 8
+-rw-r--r--. 1 myid 180 Nov 20 14:19 createdFiles.lst
+-rw-r--r--. 1 myid 516 Nov 20 14:19 inputFiles.lst
+/home/myid/rl27374/projects/cs1302-gallery:/home/myid/csci-1302
